@@ -9,9 +9,9 @@ Ağırlıklı olarak **Python** yazıyorum; **C#**, **SQL** ve görüntü işlem
 Turkcell'de 7 ay canlı sistem verisiyle, CHIP Computer'da ERP iş akışı otomasyonuyla uğraştım.
 
 ### 🎯 Şu an
-İstanbul / Tekirdağ ya da uzaktan **tam zamanlı bir rol** arıyorum — Python geliştirme, otomasyon,
-veri analizi veya ERP / iş analizi. Elle yürüyen bir süreci otomatikleştirmek ya da sıfırdan bir
-sistem kurmak gerekiyorsa, aradığınız kişi olabilirim.
+**Tam zamanlı bir rol** arıyorum — Python geliştirme, otomasyon, veri analizi veya ERP / iş analizi;
+ofiste ya da uzaktan. Elle yürüyen bir süreci otomatikleştirmek ya da sıfırdan bir sistem kurmak
+gerekiyorsa, aradığınız kişi olabilirim.
 
 ---
 
