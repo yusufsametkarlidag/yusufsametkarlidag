@@ -21,6 +21,16 @@ PersonaStudio'nun öncülü; macOS ve Windows'ta çalışan, zaman haritası dos
 görselleri otomatik kurgulayan sürüm.
 `Python` `FFmpeg` `Tkinter`
 
+**[Ne Yiyorum?](https://github.com/yusufsametkarlidag/ne-yiyorum)** — Görüntü işleme tabanlı beslenme takip sistemi
+Bitirme projem. Yemek fotoğrafından YOLOv8 ile **%93,4 doğrulukla** tanıma, kalori ve makro hesabı,
+kişisel hedef takibi ve raporlama. Model eğitiminden arayüze kadar geliştirmesini ben yürüttüm.
+`Python` `YOLOv8` `Streamlit` `SQLite` `Plotly`
+
+**[SmartScrape / NextScrape](https://github.com/yusufsametkarlidag/smartscrape-project)** — LLM destekli web kazıma sistemi
+Üç kişilik ekip projesi. LLM'i veriyi okumak için değil, çıkarım kurallarını üretmek için kullanan hibrit
+bir motor; 10 sitede **%88 doğru çıkarım**.
+`Python` `Ollama` `Streamlit` `CSS/XPath`
+
 ---
 
 ### 🧰 Çalıştığım alanlar
