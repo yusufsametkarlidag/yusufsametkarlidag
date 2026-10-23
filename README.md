@@ -1,10 +1,17 @@
-## Merhaba, ben Yusuf 👋
+## Yusuf Samet Karlıdağ
 
-Bilgisayar mühendisiyim. **Python ile uçtan uca çalışan sistemler** kuruyorum — özellikle bir sürecin
-tamamını otomatikleştiren, elle yapıldığında saatler alan işi tek komuta indiren türden.
+Bilgisayar mühendisiyim. **Bir süreci baştan sona çalışan bir sisteme çevirmek** en iyi olduğum iş:
+konuşmayı çözümleyip video kurgulayan bir üretim hattı, fotoğraftan besin değeri çıkaran bir
+görüntü işleme uygulaması, LLM ile kendi kurallarını yazan bir veri çıkarım motoru — hepsinde
+problemi alıp çalışan bir ürüne kadar götürdüm.
 
-Şu an **İstanbul / Tekirdağ**'da iş arıyorum: Python geliştirme, otomasyon, veri analizi
-veya ERP / iş analizi tarafında.
+Ağırlıklı olarak **Python** yazıyorum; **C#**, **SQL** ve görüntü işleme tarafında da çalışıyorum.
+Turkcell'de 7 ay canlı sistem verisiyle, CHIP Computer'da ERP iş akışı otomasyonuyla uğraştım.
+
+### 🎯 Şu an
+İstanbul / Tekirdağ ya da uzaktan **tam zamanlı bir rol** arıyorum — Python geliştirme, otomasyon,
+veri analizi veya ERP / iş analizi. Elle yürüyen bir süreci otomatikleştirmek ya da sıfırdan bir
+sistem kurmak gerekiyorsa, aradığınız kişi olabilirim.
 
 ---
 
